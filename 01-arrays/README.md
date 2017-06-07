@@ -33,3 +33,16 @@ Input:
  * line 2 - the array
 
 Output: sorted array
+
+Find all the sub arrays whose elements sum up to 0
+--------------------------------------------------
+
+Input:
+
+    10
+    3 4 -7 3 1 3 1 -4 -2 -2
+
+ * line 1 - number of elements in the array
+ * line 2 - the array
+
+Output: first and last index of each sub array in a separate line
