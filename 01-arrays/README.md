@@ -46,3 +46,18 @@ Input:
  * line 2 - the array
 
 Output: first and last index of each sub array in a separate line
+
+Find a duplicate in a special array
+-----------------------------------
+
+The array has n elements, they are all between 1 and n-1 with one duplicate.
+
+Input:
+
+    10
+    3 4 5 6 7 2 1 8 1 9
+
+ * line 1 - number of elements in the array
+ * line 2 - the array
+
+Output: the value of the duplicate
