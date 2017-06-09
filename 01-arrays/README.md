@@ -61,3 +61,16 @@ Input:
  * line 2 - the array
 
 Output: the value of the duplicate
+
+Find largest sub array formed by consecutive numbers
+----------------------------------------------------
+
+Input:
+
+    8
+    2 0 2 1 4 3 1 0
+
+ * line 1 - number of elements in the array
+ * line 2 - the array
+
+Output: the elements of the largest consecutive array
