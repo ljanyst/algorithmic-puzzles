@@ -74,3 +74,18 @@ Input:
  * line 2 - the array
 
 Output: the elements of the largest consecutive array
+
+Find largest sub array having given sum
+---------------------------------------
+
+Input:
+
+    9
+    5 6 -5 5 3 5 3 -2 0
+    8
+
+ * line 1 - number of elements in the array
+ * line 2 - the array
+ * line 3 - the requested sum
+
+Output: the elements of the largest array with the given sum
