@@ -89,3 +89,16 @@ Input:
  * line 3 - the requested sum
 
 Output: the elements of the largest array with the given sum
+
+Find largest sub array having equal number of 0s and 1s
+-------------------------------------------------------
+
+Input:
+
+    7
+    0 0 1 0 1 0 0
+
+ * line 1 - number of elements in the array
+ * line 2 - the array
+
+Output: the elements of the array having equal number of 0s an 1s
