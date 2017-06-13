@@ -102,3 +102,18 @@ Input:
  * line 2 - the array
 
 Output: the elements of the array having equal number of 0s an 1s
+
+Merge two sorted arrays inplace
+-------------------------------
+
+Input:
+
+    5
+    1 4 7 8 10
+    3
+    2 3 9
+
+ * line 1 and line 3 - number of elements in the respective array
+ * line 2 and line 4 - element sof the respective array
+
+Output: elements of the first array, new line, elements of the second array
